@@ -1,0 +1,13 @@
+#container{
+    display:flex;
+    justify-content: center;
+}
+.tarjeta{
+    background-color: aquamarine;
+    height: 700px;
+    width: 350px;
+}
+iframe {
+    width: 95%;
+    margin: 15px;
+}
